@@ -23,21 +23,21 @@ text { white-space: pre; }
 <tspan x="20" y="90">,.............                             .......</tspan>
 <tspan x="20" y="110">,.............                             .......</tspan>
 <tspan x="20" y="130">,............        (%%%%#%%(.           ........</tspan>
-<tspan x="20" y="150">,...........    . @@&&&@%(%%&%&%&          .......</tspan>
-<tspan x="20" y="170">............    &@@&&%&%%/&%%%&&&@&         ......</tspan>
-<tspan x="20" y="190">...........   .@@@@@@%*,,,,,,&@&@@@&        ......</tspan>
-<tspan x="20" y="210">..........    &@@@(//*,.,...,,*/@@@@%       ......</tspan>
+<tspan x="20" y="150">,...........    . @@&amp;&amp;&amp;@%(%%&amp;%&amp;%&amp;          .......</tspan>
+<tspan x="20" y="170">............    &amp;@@&amp;&amp;%&amp;%%/&amp;%%%&amp;&amp;&amp;@&amp;         ......</tspan>
+<tspan x="20" y="190">...........   .@@@@@@%*,,,,,,&amp;@&amp;@@@&amp;        ......</tspan>
+<tspan x="20" y="210">..........    &amp;@@@(//*,.,...,,*/@@@@%       ......</tspan>
 <tspan x="20" y="230">.........    .@@@#/(/*,,,,.,,/(**@@@@.      ......</tspan>
-<tspan x="20" y="250">........     /@#&(/#&&((*,*((%%(**&(@/      ......</tspan>
+<tspan x="20" y="250">........     /@#&amp;(/#&amp;&amp;((*,*((%%(**&amp;(@/      ......</tspan>
 <tspan x="20" y="270">........... ./@@/****,,**./,,,,,,*/@@#...   ......</tspan>
-<tspan x="20" y="290">.............#%@@(*,,,,*/,*,,..,,/@@@&. ..........</tspan>
-<tspan x="20" y="310">...........,.&&@@@//**//(//**,***@@@@&(..........</tspan>
-<tspan x="20" y="330">...........*&&&&&@@@(*********/#@@&@%@#/.........</tspan>
-<tspan x="20" y="350">..........*%&&@@@&@@//((////(//@@@@@@@&&#/.......</tspan>
-<tspan x="20" y="370">........*%(&&&%@&%%//***/******/(%@%&@@@@%( ......</tspan>
+<tspan x="20" y="290">.............#%@@(*,,,,*/,*,,..,,/@@@&amp;. ..........</tspan>
+<tspan x="20" y="310">...........,.&amp;&amp;@@@//**//(//**,***@@@@&amp;(..........</tspan>
+<tspan x="20" y="330">...........*&amp;&amp;&amp;&amp;&amp;@@@(*********/#@@&amp;@%@#/.........</tspan>
+<tspan x="20" y="350">..........*%&amp;&amp;@@@&amp;@@//((////(//@@@@@@@&amp;&amp;#/.......</tspan>
+<tspan x="20" y="370">........*%(&amp;&amp;&amp;%@&amp;%%//***/******/(%@%&amp;@@@@%( ......</tspan>
 <tspan x="20" y="390">.....*##%%%#%%#%###/,******,,,,,,,%%##%%%@(.......</tspan>
-<tspan x="20" y="410">...########%##%%&@@@/*,.......,,*%%%#####%####....</tspan>
-<tspan x="20" y="430">..######(#####%&#%#%&&#.........%%%%%%%@########..</tspan>
+<tspan x="20" y="410">...########%##%%&amp;@@@/*,.......,,*%%%#####%####....</tspan>
+<tspan x="20" y="430">..######(#####%&amp;#%#%&amp;&amp;#.........%%%%%%%@########..</tspan>
 <tspan x="20" y="450">%#########(#(####%###%###,....,#%##%######(((####.</tspan>
 <tspan x="20" y="470">#%####%(##################..,%@######(#####(######</tspan>
 <tspan x="20" y="490">#%####%#####(#############/##%######(####(#####(##</tspan>
@@ -52,9 +52,7 @@ text { white-space: pre; }
 <tspan x="520" y="80" class="dim">-------------------------------------------</tspan>
 
 <tspan x="520" y="110"><tspan class="key">education</tspan>: <tspan class="value">b.tech computer science (2023–2027)</tspan></tspan>
-
 <tspan x="520" y="140"><tspan class="key">currently</tspan>: <tspan class="value">web dev · problem solving · learning ml</tspan></tspan>
-
 <tspan x="520" y="170"><tspan class="key">about</tspan>: <tspan class="value">building smooth + thoughtful things</tspan></tspan>
 
 <tspan x="520" y="210"><tspan class="key">languages</tspan>: <tspan class="value">c++ · javascript · python · sql</tspan></tspan>
@@ -66,7 +64,7 @@ text { white-space: pre; }
 <tspan x="520" y="350"><tspan class="key">interests</tspan>: <tspan class="value">competitive programming · web development · ui/ux · machine learning</tspan></tspan>
 
 <tspan x="520" y="390" class="dim">-------------------------------------------</tspan>
-<tspan x="520" y="420">thank you for visiting my little corner of github. <3 </tspan>
+<tspan x="520" y="420">thank you for visiting my little corner of github.</tspan>
 
 </text>
 
