@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
      width="1120px"
-     height="620px"
+     height="840px"
      font-family="ConsolasFallback,Consolas,monospace"
      font-size="18px">
 
@@ -25,7 +25,6 @@ text, tspan {white-space: pre;}
 
 <!-- ASCII COLUMN -->
 <text x="30" y="40" class="ascii">
-
 <tspan x="30" y="40">,............                               ......</tspan>
 <tspan x="30" y="70">,..............                             ......</tspan>
 <tspan x="30" y="100">,..............                             ......</tspan>
@@ -52,7 +51,6 @@ text, tspan {white-space: pre;}
 <tspan x="30" y="730">#%####%#####(#############/##%######(####(#####(##</tspan>
 <tspan x="30" y="760">#%#%#%%###################(#%###((####(###(#######</tspan>
 <tspan x="30" y="790">##%#%%&####################&#########(############</tspan>
-
 </text>
 
 <!-- PANEL COLUMN -->
@@ -80,5 +78,4 @@ text, tspan {white-space: pre;}
 <tspan x="570" y="500">thankyou for visiting my little corner</tspan>
 
 </text>
-
 </svg>
