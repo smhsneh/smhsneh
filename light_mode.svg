@@ -1,68 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="860px"
-     height="440px"
-     font-family="Consolas, monospace"
-     font-size="14px">
+     width="1120px"
+     height="620px"
+     font-family="ConsolasFallback,Consolas,monospace"
+     font-size="18px">
 
 <style>
-.key { fill: #0969da; }
-.value { fill: #24292f; }
-.dim { fill: #57606a; }
-text { white-space: pre; }
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+}
+
+.key {fill: #0969da;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #57606a;}
+.ascii {fill: #24292f; opacity: 0.95;}
+text, tspan {white-space: pre;}
 </style>
 
-<rect width="100%" height="100%" fill="#ffffff" rx="8"/>
+<rect width="100%" height="100%" fill="#f6f8fa"/>
 
-<!-- ASCII -->
-<text x="10" y="25" fill="#24292f">
+<!-- ASCII COLUMN -->
+<text x="30" y="40" class="ascii">
 
-<tspan x="10" y="25">,............                               ......</tspan>
-<tspan x="10" y="43">,..............                             ......</tspan>
-<tspan x="10" y="61">,..............                             ......</tspan>
-<tspan x="10" y="79">,.............                             .......</tspan>
-<tspan x="10" y="97">,.............                             .......</tspan>
-<tspan x="10" y="115">,............        (%%%%#%%(.           ........</tspan>
-<tspan x="10" y="133">,...........    . @@&amp;&amp;&amp;@%(%%&amp;%&amp;%&amp;          .......</tspan>
-<tspan x="10" y="151">............    &amp;@@&amp;&amp;%&amp;%%/&amp;%%%&amp;&amp;&amp;@&amp;         ......</tspan>
-<tspan x="10" y="169">...........   .@@@@@@%*,,,,,,&amp;@&amp;@@@&amp;        ......</tspan>
-<tspan x="10" y="187">..........    &amp;@@@(//*,.,...,,*/@@@@%       ......</tspan>
-<tspan x="10" y="205">.........    .@@@#/(/*,,,,.,,/(**@@@@.      ......</tspan>
-<tspan x="10" y="223">........     /@#&amp;(/#&amp;&amp;((*,*((%%(**&amp;(@/      ......</tspan>
-<tspan x="10" y="241">........... ./@@/****,,**./,,,,,,*/@@#...   ......</tspan>
-<tspan x="10" y="259">.............#%@@(*,,,,*/,*,,..,,/@@@&amp;. ..........</tspan>
-<tspan x="10" y="277">...........,.&amp;&amp;@@@//**//(//**,***@@@@&amp;(..........</tspan>
-<tspan x="10" y="295">...........*&amp;&amp;&amp;&amp;&amp;@@@(*********/#@@&amp;@%@#/.........</tspan>
-<tspan x="10" y="313">..........*%&amp;&amp;@@@&amp;@@//((////(//@@@@@@@&amp;&amp;#/.......</tspan>
-<tspan x="10" y="331">........*%(&amp;&amp;&amp;%@&amp;%%//***/******/(%@%&amp;@@@@%( ......</tspan>
-<tspan x="10" y="349">.....*##%%%#%%#%###/,******,,,,,,,%%##%%%@(.......</tspan>
-<tspan x="10" y="367">...########%##%%&amp;@@@/*,.......,,*%%%#####%####....</tspan>
-<tspan x="10" y="385">..######(#####%&amp;#%#%&amp;&amp;#.........%%%%%%%@########..</tspan>
-<tspan x="10" y="403">%#########(#(####%###%###,....,#%##%######(((####.</tspan>
-<tspan x="10" y="421">#%####%(##################..,%@######(#####(######</tspan>
+<tspan x="30" y="40">,............                               ......</tspan>
+<tspan x="30" y="70">,..............                             ......</tspan>
+<tspan x="30" y="100">,..............                             ......</tspan>
+<tspan x="30" y="130">,.............                             .......</tspan>
+<tspan x="30" y="160">,.............                             .......</tspan>
+<tspan x="30" y="190">,............        (%%%%#%%(.           ........</tspan>
+<tspan x="30" y="220">,...........    . @@&&&@%(%%&%&%&          .......</tspan>
+<tspan x="30" y="250">............    &@@&&%&%%/&%%%&&&@&         ......</tspan>
+<tspan x="30" y="280">...........   .@@@@@@%*,,,,,,&@&@@@&        ......</tspan>
+<tspan x="30" y="310">..........    &@@@(//*,.,...,,*/@@@@%       ......</tspan>
+<tspan x="30" y="340">.........    .@@@#/(/*,,,,.,,/(**@@@@.      ......</tspan>
+<tspan x="30" y="370">........     /@#&(/#&&((*,*((%%(**&(@/      ......</tspan>
+<tspan x="30" y="400">........... ./@@/****,,**./,,,,,,*/@@#...   ......</tspan>
+<tspan x="30" y="430">.............#%@@(*,,,,*/,*,,..,,/@@@&. ..........</tspan>
+<tspan x="30" y="460">...........,.&&@@@//**//(//**,***@@@@&(...........</tspan>
+<tspan x="30" y="490">...........*&&&&&@@@(*********/#@@&@%@#/..........</tspan>
+<tspan x="30" y="520">..........*%&&@@@&@@//((////(//@@@@@@@&&#/........</tspan>
+<tspan x="30" y="550">........*%(&&&%@&%%//***/******/(%@%&@@@@%( ......</tspan>
+<tspan x="30" y="580">.....*##%%%#%%#%###/,******,,,,,,,%%##%%%@(.......</tspan>
+<tspan x="30" y="610">...########%##%%&@@@/*,.......,,*%%%#####%####....</tspan>
+<tspan x="30" y="640">..######(#####%&#%#%&&#.........%%%%%%%@########..</tspan>
+<tspan x="30" y="670">%#########(#(####%###%###,....,#%##%######(((####.</tspan>
+<tspan x="30" y="700">#%####%(##################..,%@######(#####(######</tspan>
+<tspan x="30" y="730">#%####%#####(#############/##%######(####(#####(##</tspan>
+<tspan x="30" y="760">#%#%#%%###################(#%###((####(###(#######</tspan>
+<tspan x="30" y="790">##%#%%&####################&#########(############</tspan>
 
 </text>
 
-<!-- PANEL -->
-<text x="430" y="25" fill="#24292f">
+<!-- PANEL COLUMN -->
+<text x="570" y="40" fill="#24292f">
 
-<tspan x="430" y="25">sneh ♡</tspan>
-<tspan x="430" y="43" class="dim">--------------------------</tspan>
+<tspan x="570" y="40">sneh</tspan>
+<tspan x="570" y="70" class="cc">---------------------------------------------</tspan>
 
-<tspan x="430" y="69"><tspan class="key">education</tspan>: <tspan class="value">b.tech cs (2023–2027)</tspan></tspan>
-<tspan x="430" y="87"><tspan class="key">currently</tspan>: <tspan class="value">web dev · problem solving · ml</tspan></tspan>
-<tspan x="430" y="105"><tspan class="key">about</tspan>: <tspan class="value">building things</tspan></tspan>
+<tspan x="570" y="100" class="cc">. </tspan><tspan class="key">os</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">snehal prakash</tspan>
+<tspan x="570" y="130" class="cc">. </tspan><tspan class="key">uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">20 years</tspan>
+<tspan x="570" y="160" class="cc">. </tspan><tspan class="key">host</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">nitp'27</tspan>
+<tspan x="570" y="190" class="cc">. </tspan><tspan class="key">kernel</tspan>:<tspan class="cc"> ...................</tspan><tspan class="value">b.tech computer science</tspan>
+<tspan x="570" y="220" class="cc">. </tspan><tspan class="key">ide</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">vscode</tspan>
 
-<tspan x="430" y="135"><tspan class="key">languages</tspan>: <tspan class="value">c++ · javascript · python · sql</tspan></tspan>
-<tspan x="430" y="153"><tspan class="key">frontend</tspan>: <tspan class="value">react · html · tailwind</tspan></tspan>
-<tspan x="430" y="171"><tspan class="key">backend</tspan>: <tspan class="value">node · express</tspan></tspan>
-<tspan x="430" y="189"><tspan class="key">database</tspan>: <tspan class="value">mongodb · atlas</tspan></tspan>
-<tspan x="430" y="207"><tspan class="key">tools</tspan>: <tspan class="value">git · github · vscode</tspan></tspan>
+<tspan x="570" y="260" class="key">languages.programming</tspan>: <tspan class="value">c++, python, javascript</tspan>
+<tspan x="570" y="290" class="key">languages.computer</tspan>: <tspan class="value">html, css, sql</tspan>
 
-<tspan x="430" y="237"><tspan class="key">interests</tspan>: <tspan class="value">cp · web dev · ui/ux · ml</tspan></tspan>
+<tspan x="570" y="330" class="key">stack.frontend</tspan>: <tspan class="value">react, tailwind</tspan>
+<tspan x="570" y="360" class="key">stack.backend</tspan>: <tspan class="value">node, express</tspan>
+<tspan x="570" y="390" class="key">stack.database</tspan>: <tspan class="value">mongodb</tspan>
 
-<tspan x="430" y="300" class="dim">--------------------------</tspan>
-<tspan x="430" y="320">thank you for visiting ★</tspan>
+<tspan x="570" y="430" class="key">interests</tspan>: <tspan class="value">competitive programming, web, ml</tspan>
+
+<tspan x="570" y="470" class="cc">---------------------------------------------</tspan>
+<tspan x="570" y="500">thankyou for visiting my little corner</tspan>
 
 </text>
 
