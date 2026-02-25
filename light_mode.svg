@@ -1,84 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="1120px"
-     height="620px"
-     font-family="ConsolasFallback,Consolas,monospace"
-     font-size="18px">
+     width="720"
+     height="420"
+     font-family="Consolas, monospace"
+     font-size="18">
 
-<style>
-@font-face {
-  src: local('Consolas'), local('Consolas Bold');
-  font-family: 'ConsolasFallback';
-  font-display: swap;
-}
+<rect width="100%" height="100%" fill="#ffffff"/>
 
-.key {fill: #0969da;}
-.value {fill: #0a3069;}
-.addColor {fill: #1a7f37;}
-.delColor {fill: #cf222e;}
-.cc {fill: #57606a;}
-.ascii {fill: #24292f; opacity: 0.95;}
-text, tspan {white-space: pre;}
-</style>
+<text x="40" y="50" fill="#24292f">
 
-<rect width="100%" height="100%" fill="#f6f8fa"/>
+<tspan x="40" y="50">sneh</tspan>
+<tspan x="40" y="80" fill="#57606a">----------------------------------------</tspan>
 
-<!-- ASCII COLUMN -->
-<text x="30" y="40" class="ascii">
+<tspan x="40" y="110">. <tspan fill="#0969da">os</tspan>: <tspan fill="#0a3069">snehal prakash</tspan></tspan>
+<tspan x="40" y="140">. <tspan fill="#0969da">uptime</tspan>: <tspan fill="#0a3069">20 years</tspan></tspan>
+<tspan x="40" y="170">. <tspan fill="#0969da">host</tspan>: <tspan fill="#0a3069">nitp'27</tspan></tspan>
+<tspan x="40" y="200">. <tspan fill="#0969da">kernel</tspan>: <tspan fill="#0a3069">b.tech computer science</tspan></tspan>
+<tspan x="40" y="230">. <tspan fill="#0969da">ide</tspan>: <tspan fill="#0a3069">vscode</tspan></tspan>
 
-<tspan x="30" y="40">,............                               ......</tspan>
-<tspan x="30" y="70">,..............                             ......</tspan>
-<tspan x="30" y="100">,..............                             ......</tspan>
-<tspan x="30" y="130">,.............                             .......</tspan>
-<tspan x="30" y="160">,.............                             .......</tspan>
-<tspan x="30" y="190">,............        (%%%%#%%(.           ........</tspan>
-<tspan x="30" y="220">,...........    . @@&&&@%(%%&%&%&          .......</tspan>
-<tspan x="30" y="250">............    &@@&&%&%%/&%%%&&&@&         ......</tspan>
-<tspan x="30" y="280">...........   .@@@@@@%*,,,,,,&@&@@@&        ......</tspan>
-<tspan x="30" y="310">..........    &@@@(//*,.,...,,*/@@@@%       ......</tspan>
-<tspan x="30" y="340">.........    .@@@#/(/*,,,,.,,/(**@@@@.      ......</tspan>
-<tspan x="30" y="370">........     /@#&(/#&&((*,*((%%(**&(@/      ......</tspan>
-<tspan x="30" y="400">........... ./@@/****,,**./,,,,,,*/@@#...   ......</tspan>
-<tspan x="30" y="430">.............#%@@(*,,,,*/,*,,..,,/@@@&. ..........</tspan>
-<tspan x="30" y="460">...........,.&&@@@//**//(//**,***@@@@&(...........</tspan>
-<tspan x="30" y="490">...........*&&&&&@@@(*********/#@@&@%@#/..........</tspan>
-<tspan x="30" y="520">..........*%&&@@@&@@//((////(//@@@@@@@&&#/........</tspan>
-<tspan x="30" y="550">........*%(&&&%@&%%//***/******/(%@%&@@@@%( ......</tspan>
-<tspan x="30" y="580">.....*##%%%#%%#%###/,******,,,,,,,%%##%%%@(.......</tspan>
-<tspan x="30" y="610">...########%##%%&@@@/*,.......,,*%%%#####%####....</tspan>
-<tspan x="30" y="640">..######(#####%&#%#%&&#.........%%%%%%%@########..</tspan>
-<tspan x="30" y="670">%#########(#(####%###%###,....,#%##%######(((####.</tspan>
-<tspan x="30" y="700">#%####%(##################..,%@######(#####(######</tspan>
-<tspan x="30" y="730">#%####%#####(#############/##%######(####(#####(##</tspan>
-<tspan x="30" y="760">#%#%#%%###################(#%###((####(###(#######</tspan>
-<tspan x="30" y="790">##%#%%&####################&#########(############</tspan>
+<tspan x="40" y="270"><tspan fill="#0969da">languages.programming</tspan>: <tspan fill="#0a3069">c++, python, javascript</tspan></tspan>
+<tspan x="40" y="300"><tspan fill="#0969da">languages.computer</tspan>: <tspan fill="#0a3069">html, css, sql</tspan></tspan>
+
+<tspan x="40" y="340"><tspan fill="#0969da">stack.frontend</tspan>: <tspan fill="#0a3069">react, tailwind</tspan></tspan>
+<tspan x="40" y="370"><tspan fill="#0969da">stack.backend</tspan>: <tspan fill="#0a3069">node, express</tspan></tspan>
+<tspan x="40" y="400"><tspan fill="#0969da">stack.database</tspan>: <tspan fill="#0a3069">mongodb</tspan></tspan>
 
 </text>
-
-<!-- PANEL COLUMN -->
-<text x="570" y="40" fill="#24292f">
-
-<tspan x="570" y="40">sneh</tspan>
-<tspan x="570" y="70" class="cc">---------------------------------------------</tspan>
-
-<tspan x="570" y="100" class="cc">. </tspan><tspan class="key">os</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">snehal prakash</tspan>
-<tspan x="570" y="130" class="cc">. </tspan><tspan class="key">uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">20 years</tspan>
-<tspan x="570" y="160" class="cc">. </tspan><tspan class="key">host</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">nitp'27</tspan>
-<tspan x="570" y="190" class="cc">. </tspan><tspan class="key">kernel</tspan>:<tspan class="cc"> ...................</tspan><tspan class="value">b.tech computer science</tspan>
-<tspan x="570" y="220" class="cc">. </tspan><tspan class="key">ide</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">vscode</tspan>
-
-<tspan x="570" y="260" class="key">languages.programming</tspan>: <tspan class="value">c++, python, javascript</tspan>
-<tspan x="570" y="290" class="key">languages.computer</tspan>: <tspan class="value">html, css, sql</tspan>
-
-<tspan x="570" y="330" class="key">stack.frontend</tspan>: <tspan class="value">react, tailwind</tspan>
-<tspan x="570" y="360" class="key">stack.backend</tspan>: <tspan class="value">node, express</tspan>
-<tspan x="570" y="390" class="key">stack.database</tspan>: <tspan class="value">mongodb</tspan>
-
-<tspan x="570" y="430" class="key">interests</tspan>: <tspan class="value">competitive programming, web, ml</tspan>
-
-<tspan x="570" y="470" class="cc">---------------------------------------------</tspan>
-<tspan x="570" y="500">thankyou for visiting my little corner</tspan>
-
-</text>
-
 </svg>
