@@ -1,8 +1,37 @@
-<a href="https://github.com/smhsneh/smhsneh">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/smhsneh/smhsneh/main/dark_mode.svg">
-    <img alt="Snehal Prakash GitHub Profile" 
-         src="https://raw.githubusercontent.com/smhsneh/smhsneh/main/light_mode.svg">
-  </picture>
-</a>
+<div align="center">
+
+# smhsneh
+
+cs undergrad at nit patna '27 — building full-stack web applications and exploring machine learning. interested in clean systems, visual interfaces, and software that feels good to use.
+
+</div>
+
+---
+
+**languages**
+
+![c++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white)
+![python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![sql](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+
+**frontend**
+
+![react](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![html5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+![tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**backend & database**
+
+![nodejs](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+![express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
+![mongodb atlas](https://img.shields.io/badge/Atlas-000000?style=flat-square&logo=mongodb&logoColor=white)
+
+**tools**
+
+![git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![vscode](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
