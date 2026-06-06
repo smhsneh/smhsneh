@@ -1,12 +1,12 @@
-<div align="center">
+irl to url and back again
 
-# smhsneh
+# snehal prakash
+i build web pages, do problem solving and that's it |
+mern developer with a thing for clean, modern interfaces where design and functionality actually work together , always looking to learn something new and build something worth showing.
 
-cs undergrad at nit patna '27 — building full-stack web applications and exploring machine learning. interested in clean systems, visual interfaces, and software that feels good to use.
 
-</div>
+computer science and engineering, nitp '27 &nbsp;·&nbsp; dsa, dev, and design
 
----
 
 **languages**
 
