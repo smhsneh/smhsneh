@@ -32,7 +32,6 @@ cse , nitp '27
 
 ![git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![vscode](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
