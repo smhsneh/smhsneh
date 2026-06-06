@@ -8,8 +8,6 @@ mern developer with a thing for clean, modern interfaces where design and functi
 cse , nitp '27  
 [ dsa, dev, and design ]
 
-![visitors](https://komarev.com/ghpvc/?username=smhsneh&color=000000&style=flat-square&label=visitors)
-
 **languages**
 
 ![c++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white)
