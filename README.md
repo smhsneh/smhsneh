@@ -3,10 +3,12 @@ irl to url and back again
 # snehal prakash
 
 i build web pages, do problem solving, and that's it.
-mern developer with a thing for clean, modern interfaces where design and functionality actually work together ; always looking to learn something new and build something worth showing.
+mern developer with a thing for clean, modern interfaces where design and functionality actually work together. always looking to learn something new and build something worth showing.
 
 cse , nitp '27  
-[ dsa, dev, and design ]
+dsa, dev & design 
+
+[![portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://smhsneh.vercel.app)
 
 **languages**
 
@@ -32,6 +34,5 @@ cse , nitp '27
 
 ![git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
