@@ -5,6 +5,8 @@ mern developer with a thing for clean, modern interfaces where design and functi
 ![dsa dev design](https://img.shields.io/badge/dsa,%20dev%20%26%20design-000000?style=flat-square&color=000000&logoColor=white)
 ![cse nitp 27](https://img.shields.io/badge/cse%20@%20nitp%20'27-000000?style=flat-square&color=000000&logoColor=white)
 
+thanks for stopping by. here's my portfolio — [smhsneh.vercel.app](https://smhsneh.vercel.app)
+
 ---
 
 ### the stack
@@ -36,6 +38,3 @@ mern developer with a thing for clean, modern interfaces where design and functi
 ![figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
 
----
-
-thanks for stopping by. here's my portfolio — [smhsneh.vercel.app](https://smhsneh.vercel.app)
