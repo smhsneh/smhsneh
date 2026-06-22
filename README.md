@@ -1,14 +1,13 @@
-irl to url and back again
+### hey, i'm snehal prakash
 
-# snehal prakash
+mern developer with a thing for clean, modern interfaces where design and functionality actually work together. currently a cs student at nit patna graduating in 2027, always looking to learn something new and build something worth showing.
 
-i build web pages, do problem solving, and that's it.
-mern developer with a thing for clean, modern interfaces where design and functionality actually work together. always looking to learn something new and build something worth showing.
+![dsa dev design](https://img.shields.io/badge/dsa,%20dev%20%26%20design-000000?style=flat-square&color=000000&logoColor=white)
+![cse nitp 27](https://img.shields.io/badge/cse%20@%20nitp%20'27-000000?style=flat-square&color=000000&logoColor=white)
 
-cse , nitp '27  
-dsa, dev & design 
+---
 
-[![portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://smhsneh.vercel.app)
+### the stack
 
 **languages**
 
@@ -24,10 +23,10 @@ dsa, dev & design
 
 **backend & database**
 
-![nodejs](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+![node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
 ![express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
-![mongodb atlas](https://img.shields.io/badge/Atlas-000000?style=flat-square&logo=mongodb&logoColor=white)
+![atlas](https://img.shields.io/badge/Atlas-000000?style=flat-square&logo=mongodb&logoColor=white)
 ![jwt](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **tools**
@@ -36,3 +35,7 @@ dsa, dev & design
 ![github](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+thanks for stopping by. here's my portfolio — [smhsneh.vercel.app](https://smhsneh.vercel.app)
