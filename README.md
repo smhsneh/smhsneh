@@ -1,6 +1,6 @@
 ### hey, i'm snehal prakash
 
-mern developer with a thing for clean, modern interfaces where design and functionality actually work together. currently a cs student at nit patna graduating in 2027, always looking to learn something new and build something worth showing.
+currently a cs student at nit patna graduating in 2027, always looking to learn something new and build something worth showing. mern developer with a thing for clean, modern interfaces where design and functionality actually work together.
 
 ![dsa dev design](https://img.shields.io/badge/dsa,%20dev%20%26%20design-000000?style=flat-square&color=000000&logoColor=white)
 ![cse nitp 27](https://img.shields.io/badge/cse%20@%20nitp%20'27-000000?style=flat-square&color=000000&logoColor=white)
