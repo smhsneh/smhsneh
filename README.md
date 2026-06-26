@@ -36,5 +36,5 @@ thanks for stopping by, here's my portfolio [smhsneh.vercel.app](https://smhsneh
 ![figma](https://img.shields.io/badge/figma-000000?style=flat-square&logo=figma&logoColor=ffffff)
 ![postman](https://img.shields.io/badge/postman-000000?style=flat-square&logo=postman&logoColor=ffffff)
 
-### languages
-![languages](metrics.plugin.languages.svg)
+### stats
+![stats](metrics.base.svg)
