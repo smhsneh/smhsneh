@@ -1,13 +1,14 @@
 <h1>hey, i'm snehal prakash</h1>
 
-cs student at nit patna graduating in 2027. i spend most of my 
-time building web apps with mern stack, solving dsa problems, 
-and tweaking interfaces until they feel right. always looking to 
-learn something new and build something worth showing.
+<p>
+  <img src="https://img.shields.io/badge/dsa,%20dev%20%26%20design-000000?style=flat-square&logoColor=407ba7" />
+  <img src="https://img.shields.io/badge/cse%20@%20nitp%20'27-000000?style=flat-square&logoColor=407ba7" />
+</p>
 
-thanks for stopping , by here's my portfolio.
+a cs student at nit patna graduating in 2027. i spend most of my time building web apps with the mern stack, solving dsa problems, and tweaking interfaces until they feel right. always looking to learn something new and build something worth showing.
 
-<img src="https://img.shields.io/badge/smhsneh.vercel.app-000000?style=flat-square&logo=chainlink&logoColor=407ba7" />
+thanks for stopping by, here's my portfolio.
+<a href="https://smhsneh.vercel.app/"><img src="https://img.shields.io/badge/smhsneh.vercel.app-000000?style=flat-square&logo=chainlink&logoColor=407ba7" /></a>
 
 ### activity
 
