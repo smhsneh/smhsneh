@@ -1,20 +1,34 @@
-<h1>hey, i'm snehal prakash</h1>
+<h1> hey, i'm snehal prakash </h1>
+
 <p>
-  <img src="https://img.shields.io/badge/dsa,%20dev%20%26%20design-000000?style=flat-square&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/cse%20@%20nitp%20'27-000000?style=flat-square&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/dsa,%20dev%20%26%20design-000000?style=flat-square&logoColor=ffffff" alt="dsa, dev & design" />
+  <img src="https://img.shields.io/badge/cse%20@%20nitp%20'27-000000?style=flat-square&logoColor=ffffff" alt="cse @ nitp '27" />
 </p>
+
 a cs student at nit patna graduating in 2027. i spend most of my time building web apps with the mern stack, solving dsa problems, and tweaking interfaces until they feel right. always looking to learn something new and build something worth showing.
+thanks for stopping by, here's my portfolio.
 
-thanks for stopping by, here's my portfolio [smhsneh.vercel.app](https://smhsneh.vercel.app/)
+[smhsneh.vercel.app](https://smhsneh.vercel.app/)
 
-### activity
 
-<img src="metrics.plugin.isocalendar.fullyear.svg" alt="isometric commit calendar" />
+### activity & stats
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%">
+      <img src="metrics.plugin.isocalendar.fullyear.svg" alt="isometric commit calendar" />
+    </td>
+    <td width="50%">
+      <img src="metrics.base.svg" alt="stats" />
+    </td>
+  </tr>
+</table>
+
 
 ### the stack
 
 **languages**
-![c++](https://img.shields.io/badge/c++-000000?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
+ ![c++](https://img.shields.io/badge/c++-000000?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![javascript](https://img.shields.io/badge/javascript-000000?style=flat-square&logo=javascript&logoColor=ffffff)
 ![sql](https://img.shields.io/badge/sql-000000?style=flat-square&logo=postgresql&logoColor=ffffff)
 
@@ -35,6 +49,3 @@ thanks for stopping by, here's my portfolio [smhsneh.vercel.app](https://smhsneh
 ![github](https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=ffffff)
 ![figma](https://img.shields.io/badge/figma-000000?style=flat-square&logo=figma&logoColor=ffffff)
 ![postman](https://img.shields.io/badge/postman-000000?style=flat-square&logo=postman&logoColor=ffffff)
-
-### stats
-![stats](metrics.base.svg)
